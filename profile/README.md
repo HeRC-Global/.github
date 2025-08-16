@@ -1,4 +1,4 @@
-![Herc-Global-Banner](./assets/Herc_logo.png)
+
 
 # Hello there!👋, many thanks for stopping by.
 # Welcome to HeRC-Global Github Profile!
