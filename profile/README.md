@@ -1,9 +1,5 @@
 <img width="1654" height="493" alt="Herc_logo" src="https://github.com/user-attachments/assets/b81bb99c-5fda-40ac-a4af-36d2f81fe9eb" />
 
-
-# Hello there!👋, many thanks for stopping by.
-# Welcome to HeRC-Global Github Profile!
-
 # 🌍 Health Research Cloud (HeRC) — Research Made Familiar!
 
 
